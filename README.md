@@ -54,15 +54,19 @@ Note: Dawn Server may be experiencing problems receiving requests, please be pat
     protocol://ip:port
     protocol://user:pass@ip:port
   ```
+  You can buy proxy at here(https://app.proxies.fo/ref/2fe2c521-8a31-47f2-5f90-776f2627dd01). Use ISP proxy with unlimited thread, you can run a milion account as much as u can.
+  ![image](https://github.com/user-attachments/assets/f4c8519c-6b64-4698-b869-e2293e7d4949)
+
 
 ## Run
 
 ```bash
 python xam.py
 ```
-![image](https://github.com/user-attachments/assets/c6a3c910-e2d4-4fe9-8ef0-1fb5f424f127)
 
-![image](https://github.com/user-attachments/assets/aacc6cfa-3663-4bdb-b518-222bf8ebc7c6)
+![image](https://github.com/user-attachments/assets/c7095cbf-6e67-42ba-a154-cd6d3d34f4e1)
+
+
 
 ## Stay Connected
 
