@@ -54,7 +54,7 @@ Note: Dawn Server may be experiencing problems receiving requests, please be pat
     protocol://ip:port
     protocol://user:pass@ip:port
   ```
-  You can buy proxy at here(https://app.proxies.fo/ref/2fe2c521-8a31-47f2-5f90-776f2627dd01). Use ISP proxy with unlimited thread, you can run a milion account as much as u can.
+  You can buy proxy at [here](https://app.proxies.fo/ref/2fe2c521-8a31-47f2-5f90-776f2627dd01). Use ISP proxy with unlimited thread, you can run a milion account as much as u can.
   ![image](https://github.com/user-attachments/assets/f4c8519c-6b64-4698-b869-e2293e7d4949)
 
 
